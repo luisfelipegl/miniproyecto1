@@ -1,0 +1,6 @@
+module:com.example.soleclipsado
+com.example.soleclipsado
+com.example.soleclipsado.controllers
+com.example.soleclipsado.models
+com.example.soleclipsado.views
+com.example.soleclipsado.views.alert
